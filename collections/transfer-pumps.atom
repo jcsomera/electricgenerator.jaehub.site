@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.electricgeneratordepot.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.electricgeneratordepot.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.electricgeneratordepot.com/collections/transfer-pumps.atom"/>
+  <title>Electric Generator Depot</title>
+  <updated>2023-01-10T12:18:16-08:00</updated>
+  <author>
+    <name>Electric Generator Depot</name>
+  </author>
+  <entry>
+    <id>https://www.electricgeneratordepot.com/products/1099426988147</id>
+    <published>2023-01-10T12:18:16-08:00</published>
+    <updated>2023-01-10T12:18:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.electricgeneratordepot.com/products/durostar-dstp15-ac-110-volt-16-gpm-cast-iron-bronze-rotor-fuel-transfer-pump"/>
+    <title>DuroStar DSTP15-AC 110-Volt 16-Gpm Cast Iron Bronze Rotor Fuel Transfer Pump</title>
+    <s:type>Fuel Transfer Pumps</s:type>
+    <s:vendor>DuroStar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/8965/2851/products/DSTP15-AC__1.jpg?v=1530653955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DuroStar<br>
+        <strong>Type: </strong>Fuel Transfer Pumps<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<a id="features"></a>Features</h5> 
+<ul>            <li>Perfect for Farm, Agriculture or Jobsite use!</li> 
+            <li>Quickly and safely pump fuel to equipment or vehicles.</li> 
+            <li>Nominal Flow rate of 15 gallons per minute.</li> 
+            <li>Maximum flowrate of 16 gallons per minute.</li> 
+            <li>Mechanical flow meter informs the operator of fuel consumption.</li> 
+            <li>Easy to setup and have ready for use within minutes!</li> 
+        </ul> 
+        <h5>What's in The Box</h5> 
+        <ul> 
+            <li>DuroStar Fuel Transfer Pump</li> 
+            <li>Mechanical Flow Meter</li> 
+            <li>Manual Fueling Nozzle</li> 
+            <li>Rubber Fueling Hose</li> 
+            <li>Clear Suction Hose</li> 
+            <li>Owner's Manual</li> 
+        </ul> 
+        <h5>Warranty</h5> 
+        <ul> 
+            <li>1-Year Limited Factory Warranty </li> 
+            <li>30 Day Satisfaction Guaranteed </li> 
+        </ul> 
+     
+    <h5>
+<a id="specifications"></a>Specifications</h5> 
+<table> 
+    <tbody>        <tr> 
+            <td>Sku</td> 
+            <td>DSTP15-AC</td> 
+        </tr> 
+        <tr> 
+            <td>Brand</td> 
+            <td>DuroStar Power Equipment</td>
+        </tr> 
+            <tr>
+            <td>Voltage</td>
+            <td>110V</td>
+          </tr>
+          <tr>
+            <td>Frequency</td>
+            <td>60 Hz</td>
+          </tr>
+          <tr>
+            <td>Power</td>
+            <td>550 Watts</td>
+          </tr>
+          <tr>
+            <td>Suction</td>
+            <td>16 ft.</td>
+          </tr>
+          <tr>
+            <td>Inlet Hose Length</td>
+            <td>6.5 ft.</td>
+          </tr>
+          <tr>
+            <td>Outlet Hose Length</td>
+            <td>13 ft.</td>
+          </tr>
+          <tr>
+            <td>Pump Body Material</td>
+            <td>Cast Iron</td>
+          </tr>
+          <tr>
+            <td>Meter Totalizer</td>
+            <td>9 Digit Non-Resettable Cumulative Total</td>
+          </tr>
+          <tr>
+            <td>Mechanical Flow Meter</td>
+            <td>4 Digit Display</td>
+          </tr>
+          <tr>
+            <td>Meter Max. Operating Pressure</td>
+            <td>50 PSI</td>
+          </tr>
+          <tr>
+            <td>Meter Precision</td>
+            <td>+/- 1%</td>
+          </tr>
+          <tr>
+            <td>Meter Units</td>
+            <td>Gallons</td>
+          </tr>
+          <tr>
+            <td>Product Dimensions</td>
+            <td>17.2"-Long x 15.2"-Wide x 15"-High</td>
+          </tr>
+          <tr>
+            <td>Product Weight</td>
+            <td>43-lbs</td>
+          </tr>
+          <tr>
+            <td>UPC</td>
+            <td>811640015237</td>
+          </tr>
+ 
+    </tbody> 
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAPP</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sameday</s:tag>
+    <s:variant>
+      <id>https://www.electricgeneratordepot.com/products/1099426988147</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>DSTP15-AC</s:sku>
+      <s:grams>17690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.electricgeneratordepot.com/products/1099427053683</id>
+    <published>2023-01-10T12:18:14-08:00</published>
+    <updated>2023-01-10T12:18:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.electricgeneratordepot.com/products/durostar-dstp20-12-volt-20-gpm-ball-bearing-cast-iron-fuel-transfer-pump"/>
+    <title>DuroStar DSTP20 12-Volt 20-Gpm Ball Bearing Cast Iron Fuel Transfer Pump</title>
+    <s:type>Fuel Transfer Pumps</s:type>
+    <s:vendor>DuroStar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/8965/2851/products/DSTP20__1.jpg?v=1530653963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DuroStar<br>
+        <strong>Type: </strong>Fuel Transfer Pumps<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<a id="features"></a>Features</h5>
+<ul>
+    <li>Transfers Up to 20 GPM - 76 LPM (Liters Per Minute)</li>
+    <li>Heavy Duty Contractor Grade Cast Iron Construction</li>
+    <li>Integral Inlet Screen - Debris Strainer</li>
+    <li>Pump Equipped For Padlocking For Jobsite Security</li>
+    <li>Ball Bearing Construction, No lubrication Required</li>
+    <li>No Foot Valve Required</li>
+</ul>
+<h5>What's in The Box</h5>
+<ul>
+    <li>12 Volt Fuel Transfer Pump</li>
+    <li>1 x 12 Foot Anti-Static Fuel Hose</li>
+    <li>Standard 1 Diesel Nozzle</li>
+    <li>Telescoping Pickup Tube</li>
+    <li>15 Foot Power Cord</li>
+    <li>Owner's Manual</li>
+</ul>
+<h5>Warranty</h5>
+<ul>
+    <li>1-Year Limited Factory Warranty </li>
+    <li>30 Day Satisfaction Guaranteed </li>
+</ul>
+
+<h5>
+<a id="specifications"></a>Specifications</h5>
+<table>
+    <tbody>
+        <tr>
+            <td>Sku</td>
+            <td>DSTP20</td>
+        </tr>
+        <tr>
+            <td>Brand</td>
+            <td>DuroStar Power Equipment</td>
+        </tr>
+         <tr>
+            <td>Voltage</td>
+            <td>12V DC</td>
+          </tr>
+          <tr>
+            <td>Amperage</td>
+            <td>20 A</td>
+          </tr>
+          <tr>
+            <td>Flow Rate</td>
+            <td>20 GPM/ 76 LPM</td>
+          </tr>
+          <tr>
+            <td>Suction</td>
+            <td>16 ft.</td>
+          </tr>
+          <tr>
+            <td>Max Speed</td>
+            <td>2,900 RPM</td>
+          </tr>
+          <tr>
+            <td>Hose Size</td>
+            <td>1-inch x 12-feet</td>
+          </tr>
+          <tr>
+            <td>Pump Body Material</td>
+            <td>Cast Iron</td>
+          </tr>
+          <tr>
+            <td>Power Cord Length</td>
+            <td>15 ft.</td>
+          </tr>
+          <tr>
+            <td>Fluid Application</td>
+            <td>Diesel, Gasoline, Kerosene, Mineral Spirits, Heptanes, Hexane, and Bio Fuel</td>
+          </tr>
+          <tr>
+            <td>Nozzle Size</td>
+            <td>Standard 1" Diesel</td>
+          </tr>
+          <tr>
+            <td>Pick Up Tube</td>
+            <td>Telescoping</td>
+          </tr>
+          <tr>
+            <td>Product Dimensions</td>
+            <td>14"-Long x 5"-Wide x 9"-High</td>
+          </tr>
+          <tr>
+            <td>Product Weight</td>
+            <td>33-lbs</td>
+          </tr>
+          <tr>
+            <td>UPC</td>
+            <td>811640015206</td>
+          </tr>
+
+    </tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestseller</s:tag>
+    <s:tag>MAPP</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sameday</s:tag>
+    <s:variant>
+      <id>https://www.electricgeneratordepot.com/products/1099427053683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>DSTP20</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+</feed>
